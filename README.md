@@ -16,6 +16,8 @@ If you share the same passion for blockchain and DeFi, I would be thrilled to co
 - EVM
 - NFTs
 - DeFi
+- Rust
+- YUL
 - Solidity
 - Hardhat
 - Foundry
