@@ -44,4 +44,4 @@ If you share the same passion for blockchain and DeFi, I would be thrilled to co
 - Pool Tokenization
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Debugger022&theme=prussian)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?username=Debugger022&theme=prussian)](https://git.io/streak-stats)
