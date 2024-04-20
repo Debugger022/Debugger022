@@ -9,7 +9,6 @@ With my skills and enthusiasm for DeFi, I am eager to contribute to the growth a
 
 If you share the same passion for blockchain and DeFi, I would be thrilled to connect and explore the possibilities of working together. Let's be part of the revolution that is reshaping the future of finance.
 
-## Contact Me - debugger022@gmail.com
 
 ## Skills
 - Binance
